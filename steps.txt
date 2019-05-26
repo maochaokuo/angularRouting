@@ -1,0 +1,4 @@
+ng g c department-list -it -is
+ng g c employee-list -it -is
+http://localhost:4200/departments
+http://localhost:4200/employees
